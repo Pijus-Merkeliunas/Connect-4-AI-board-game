@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1701866525 source:c:\users\gamer\documents\codeblock\connect4\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	"Connect4.h"
+	<windowsx.h>
+	<algorithm>
+	<iterator>
+	<objidl.h>
+	<gdiplus.h>
+
+1651589025 c:\users\gamer\documents\codeblock\connect4\connect4.h
+	<windows.h>
+
+1651589039 source:c:\users\gamer\documents\codeblock\connect4\connect4.rc
+	"Connect4.h"
+
+1649152471 source:c:\users\pijus\documents\codeblocks\connect4\connect4.rc
+	"Connect4.h"
+
+1649152471 c:\users\pijus\documents\codeblocks\connect4\connect4.h
+	<windows.h>
+
+1650381884 source:c:\users\pijus\documents\codeblocks\connect4\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	"Connect4.h"
+	<windowsx.h>
+	<algorithm>
+	<iterator>
+	<objidl.h>
+	<gdiplus.h>
+
+1651592639 source:c:\users\gamer\documents\codeblock\connect4 - backup before minmax\connect4.rc
+	"Connect4.h"
+
+1651592625 c:\users\gamer\documents\codeblock\connect4 - backup before minmax\connect4.h
+	<windows.h>
+
+1652251900 source:c:\users\gamer\documents\codeblock\connect4 - backup before minmax\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	"Connect4.h"
+	<windowsx.h>
+	<algorithm>
+	<iterator>
+	<objidl.h>
+	<gdiplus.h>
+
+1651592639 source:c:\users\gamer\documents\codeblock\connect4 - backup before minmax - copy\connect4.rc
+	"Connect4.h"
+
+1651592625 c:\users\gamer\documents\codeblock\connect4 - backup before minmax - copy\connect4.h
+	<windows.h>
+
+1652617319 source:c:\users\gamer\documents\codeblock\connect4 - backup before minmax - copy\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	"Connect4.h"
+	<windowsx.h>
+	<algorithm>
+	<iterator>
+	<objidl.h>
+	<gdiplus.h>
+
